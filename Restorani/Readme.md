@@ -1,10 +1,10 @@
-# Рынок общественного питания в Москве
-## Данные
-Датасет с записями о заведениях общественного питания в Москве, их расположении и типе, числе посадочных мест и ценовой политике.
-## Описание проекта
-Задачей проекта было определение наилучшей локации и ценовой политики для новой кофейни в Москве. 
+# Catering market in Moscow
+## Data
+Dataset with records on public catering establishments in Moscow, their location and type, number of seats and pricing policy.
+## Project description
+The project task was to define the best location and price policy for a new coffee shop in Moscow. 
 
-Проведен исследовательский анализ рынка общественного питания в Москве. Сделан сравнительный анализ округов Москвы по числу заведений и ценовой политики в них. Выявлено, что среди всех округов Москвы в ЗАО и ЮЗАО наименьшее число кофеен, и в них высокий средний чек.
+A research analysis of the Moscow catering market was carried out. A comparative analysis of Moscow districts by the number of locations and their pricing policies. It has been revealed that ZAO and South-Western districts have the smallest number of coffee shops and the highest average prices.
 
-По результатам анализа подготовлена презентация для инвесторов с рекомендациями. В построении графиков я использовали
-библиотеки seaborn и plotly. 
+The results of the analysis prepared a presentation for investors with recommendations. In the construction of graphs I used
+libraries seaborn and plotly. 
