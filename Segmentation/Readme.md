@@ -1,10 +1,20 @@
-# Сегментация клиентов банка
-## Данные
-Таблица с записями о клиентах банка, их локации, возрасте, заработной плате, активности и прочих их признаков.
-## Описание проекта
- Задача проекта - выявление сегментов клиентов банка по их склонности к оттокку.
+
+# Bank customer segmentation
+
+## Data.
+
+A table with records of the bank's customers, their location, age, salary, activity, and other attributes.
+
+## Project description.
+
+ The objective of the project was to identify segments of the bank's customers by their propensity to churn.
+
  
- Провел исследовательский анализ данных(EDA). Выявил признаки клиентов, коррелирующие с их оттоком. Определил число сегментов.
- Провел сегментацию клиентов кластеризацией методом K-средних по выявленным в EDA признакам. Клиенты, пользующиеся 1 продуктом банка, наиболее склонны к оттоку.
+
+ Conducted exploratory data analysis(EDA). Identified attributes of customers that correlate with their churn. Determined the number of segments.
+
+ Conducted customer segmentation by K-means clustering based on the attributes identified in the EDA. Customers who use 1 bank product are most likely to churn.
+
  
- Даны рекомендации по сокращению оттока клиентов в выделенных сегментах.
+
+ Made recommendations to reduce customer churn in the identified segments.
