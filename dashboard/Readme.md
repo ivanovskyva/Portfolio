@@ -1,12 +1,12 @@
-# Дашборд для Яндекс.Дзен
-## Данные
-Агрегирующая таблица с записями о событиях в карточках Яндекс.Дзен.
-## Описание проекта
-Задача этого проекта - создание средства для еженедельного анализа взаимодействий пользователей с карточками Яндекс.Дзен.
-Работу над этим проектом я провел на удаленной машине в сервисе Yandex.Cloud. Мной
-был установлен PostgreSQL, развернута база данных. Затем я написал скрипт пайплайна,
-который позволил собирать данные за определенный временной период, и настроил его
-автономную работу через crontab. Для визуализации собранных данных я написал скрипт
-дашборда с несколькими фильтрами и также запустил его на удаленной машине. 
+# Dashboard for Yandex.Zen
+## Data
+Aggregating table with records of events in Yandex.Zen cards.
+## Project description
+The task of this project is to create a tool for weekly analysis of user interactions with Yandex.Zen cards.
+I worked on this project on a remote machine in the Yandex.Cloud service. I
+installed PostgreSQL and deployed the database. Then I wrote a pipelining script,
+that allowed me to collect data for a certain time period, and I configured it
+offline operation via crontab. To visualize the collected data, I wrote a
+dashboard script with several filters and also ran it on a remote machine. 
 
-По результатам была подготовлена презентация с полученными графиками, Дашборд опубликован в Tableu.
+On the results was prepared a presentation with the obtained graphs, the dashboard is published in Tableu.
