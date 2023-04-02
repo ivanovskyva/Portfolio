@@ -1,7 +1,7 @@
-# Портфолио
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных"
-| Название проекта  | Описание        |    Библиотеки и инструменты |
+# Portfolio
+These projects were carried out in the course of training at Yandex.Practicum, the profession of "Data Analyst"
+| Project | Description | Tools and libraries |
 |:----------------- |:---------------| -------------|
-| [Сегментация клиентов банка](https://github.com/ivanovskyva/Portfolio/tree/main/Segmentation "")         | Выделил сегменты клиентов банка посредством исследовательского анализа данных и кластеризации | Python, Pandas, Sklearn, Seaborn |
-| [Дашборд для Яндекс.Дзен](https://github.com/ivanovskyva/Portfolio/tree/main/dashboard)        | Используя данные Яндекс.Дзена, построил дашборд с метриками взаимодействия пользователей с карточками статей |Python, SQLAlchemy, PostgreSQL, dash, Tableau |
-| [Рынок общественного питания в Москве](https://github.com/ivanovskyva/Portfolio/tree/main/Restorani)         | Исследовал рынок общественного питания на основе открытых данных, подготовил презентацию для инвесторов | Phyton, Pandas, Seaborn, Plotly, Choropleth   |
+| [Bank Customer Segmentation](https://github.com/ivanovskyva/Portfolio/tree/main/Segmentation "") | Identified bank customer segments through exploratory data analysis and clustering | Python, Pandas, Sklearn, Seaborn |
+| [Dashboard for Yandex.Zen](https://github.com/ivanovskyva/Portfolio/tree/main/dashboard) | Using Yandex.Zen data, built a dashboard with metrics of user interaction with article cards |Python, SQLAlchemy, PostgreSQL, dash, Tableau |
+| [Public catering market in Moscow](https://github.com/ivanovskyva/Portfolio/tree/main/Restorani) | Researched the public catering market based on open data, prepared a presentation for investors | Phyton, Pandas, Seaborn, Plotly, Choropleth |
